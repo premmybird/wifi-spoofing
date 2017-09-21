@@ -1,0 +1,6 @@
+check if computer connected to wpa2 network connects to open network automatically when disassociated
+if not try to set up wpa2 honeypot or spoof wpa2 certificate
+merge spoofer with the disauthentication shell script 
+check out possible attacks that can be done with the connected users
+defence against such attacks
+start on report
